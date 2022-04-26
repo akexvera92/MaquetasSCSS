@@ -1,0 +1,24 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+//@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../libs/bootstrap/scss/bootstrap";
+// Then add additional custom code here
+.obj1{
+    background-color: rgb(236, 65, 137);
+    border: 2px solid chartreuse;
+}
+.obj2{
+    background-color: rgb(14, 10, 243);
+    border: 2px solid chartreuse;
+}
+.obj3{
+    background-color: rgb(227, 252, 9);
+    border: 2px solid chartreuse;
+}
+.obj4{
+    background-color: rgb(108, 189, 236);
+    border: 2px solid chartreuse;
+}
