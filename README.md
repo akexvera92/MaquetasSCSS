@@ -31,7 +31,7 @@ Este proyecto consiste en mejorar nuestras habilidades en sitios web responsive 
 Esta maqueta consiste en utilizar la grid de bootstrap y que sea vea segun pantalla elegida  haciendo cambiar el color por pantalla y posicion 
 
 
-![](https://github.com/akexvera92/repositorio-SENA/blob/main/EJERCICIO3.png)
+![](https://github.com/akexvera92/MaquetasSCSS/blob/main/EJERCICIO%203%20SCSS.png
 
 **. EJERCICIO 4**
 Esta maqueta consiste en utilizar la grid de bootstrap y que sea vea segun pantalla elegida cambiando posicion por pantalla
