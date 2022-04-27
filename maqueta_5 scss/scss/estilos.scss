@@ -7,7 +7,7 @@
 @import "../libs/bootstrap/scss/bootstrap";
 // Then add additional custom code here
 
-
+/* En esta hoja de estilos se le da un color segun objeto nombrado y un ancho, con un borde solido*/
 
 div[class^='col-']{
     border: 5px solid white;

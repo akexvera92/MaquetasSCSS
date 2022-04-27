@@ -8,7 +8,9 @@
 // Then add additional custom code here
 @import"otros/variables";
 @import"otros/mixin.scss";
-
+/*En esta hoja de estilos se le da un color,un borde,una margen, un ancho de los elemenetos nombrados y se alinea el texto
+Se importa la libreria de bootstrap scss, se importa variables que sirve para cambiar el color segun tamaño
+se importa mixin que sirve para darle un ancho segun pidamos*/
 .pie1 {
     height: 100px;
     background-color: rgba(227, 255, 72, 0.741);
